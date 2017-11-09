@@ -2,7 +2,7 @@
 layout: post
 title: 东华杯web
 category: blog
-description: 作身为一个新人，只能在赛后复现一下，总结一下思路。
+description: 基于赛后的反思。
 ---
 
 ## web1
