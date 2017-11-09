@@ -268,7 +268,7 @@ fiddler抓包发现：
 得出：
 ![web3](/images/other/donghua_web3_8.png)
 
-##总结
+## 总结
 
 <ul>
     <li>web1发现自己的SQL并不真正理解，以至于在开始没有发现只是一道盲注题，而手无足措。
