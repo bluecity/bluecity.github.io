@@ -1,0 +1,6 @@
+permalink: /:title
+
+title: B.Friday
+url: http://darkmoon.github.io
+feed: /atom.xml
+author_info: <a href="http://darkmoom.github.io/">Mukosame</a>
