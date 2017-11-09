@@ -6,10 +6,10 @@ layout: default
   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
-        <h1>B.Friday</h1>
-        <a href="#" target="_blank"><img src="" alt="" width="25"/></a>
-        <a href="http://www.douban.com/people/beiyuu/" target="_blank"><img src="" alt="" width="22"/></a>
-        <a href="http://instagram.com/beiyuu/" target="_blank"><img src="" alt="" width="22"/></a>
+        <h1>bluecity</h1>
+        <a href="" target=""><img src="" alt="" width="25"/></a>
+        <a href="" target=""><img src="" alt="" width="22"/></a>
+        <a href="" target=""><img src="" alt="" width="22"/></a>
       </div>
       <div id="particles-js"></div>
     </div>

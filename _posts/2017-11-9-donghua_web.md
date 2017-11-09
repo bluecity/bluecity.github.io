@@ -256,18 +256,18 @@ private POST正确后会进入admin.php：
 ![web3](/images/other/donghua_web3_3.png)
 
 "=="可以弱类型绕过
-![web3](/images/other/donghua_web3_4.png
+![web3](/images/other/donghua_web3_4.png)
 
-![web3](/images/other/donghua_web3_5.png
+![web3](/images/other/donghua_web3_5.png)
 
 fiddler抓包发现：
-![web3](/images/other/donghua_web3_6.png
+![web3](/images/other/donghua_web3_6.png)
 
 构造payload:
-![web3](/images/other/donghua_web3_7.png
+![web3](/images/other/donghua_web3_7.png)
 
 得出：
-![web3](/images/other/donghua_web3_8.png
+![web3](/images/other/donghua_web3_8.png)
 
 ##总结
 <ul>
