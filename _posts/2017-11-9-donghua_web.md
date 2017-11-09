@@ -6,6 +6,7 @@ description: 作身为一个新人，只能在赛后复现一下，总结一下�
 ---
 
 ##web1
+
  这一题过滤了“ and = union ' ”,把“=”换成“like”,"and"用“or"取代
  
     http://266dfa9c90ab43efad401761249dd9c842b417a05e0847d2.game.ichunqiu.com/index.php?id=0 or 1 like 1# 有回显
@@ -50,6 +51,7 @@ description: 作身为一个新人，只能在赛后复现一下，总结一下�
 ![web1](/images/other/donghua_web1.png)
 
 ##web2
+
 这题比较水，直接action=flag是可以直接得出的。
 
 后来看了别的队伍的思路，可以扫出.git
@@ -110,6 +112,7 @@ function.php
 ![web2](/images/other/donghua_web2_4.png)
 
 ##web3
+
 扫出code.zip，打开后发现代码是加密过的；
 Wfox的[解密脚本](http://sec2hack.com/phpjiami.zip);
 解密后的代码如下：
@@ -270,6 +273,7 @@ fiddler抓包发现：
 ![web3](/images/other/donghua_web3_8.png)
 
 ##总结
+
 <ul>
     <li>web1发现自己的SQL并不真正理解，以至于在开始没有发现只是一道盲注题，而手无足措。
     <li>web2是由于自己没能第一时间打开题目，以至于出现bug情况下没抢到加分。并且，文件包含需要深度学习一下。
